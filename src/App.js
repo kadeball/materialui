@@ -3,7 +3,7 @@ import './App.css';
 import AppBar from '@material-ui/core/AppBar';
 import TypoGraphy from '@material-ui/core/Typography';
 import Toolbar from '@material-ui/core/Toolbar';
-import Nav from "./components/Nav";
+import Navbar from "./components/Navbar";
 import Checkboxed from "./components/Checkboxed";
 import Snackbars from "./components/Snackbars";
 import Steppers from "./components/Steppers";
@@ -14,7 +14,7 @@ function App() {
   return (
       <div className="App">
         <AppBar color="primary" position="static">
-          <Nav>
+          <Navbar>
             <Toolbar>
               <TypoGraphy variant="title"
                           color="inherit"
@@ -22,7 +22,7 @@ function App() {
                 Cool Stuff
               </TypoGraphy>
             </Toolbar>
-          </Nav>
+          </Navbar>
         </AppBar>
 
         <Checkboxed/>
