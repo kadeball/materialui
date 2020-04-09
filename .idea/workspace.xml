@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1599b55-8387-4a64-9eff-b167f70f43cd" name="Default Changelist" comment="" />
+    <list default="true" id="a1599b55-8387-4a64-9eff-b167f70f43cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -63,7 +66,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586216979337</updated>
-      <workItem from="1586216981486" duration="2497000" />
+      <workItem from="1586216981486" duration="3203000" />
+      <workItem from="1586303149402" duration="2790000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1586218956943</created>
@@ -79,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586219420457</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="failed deploy">
+      <created>1586219573884</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586219573884</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,13 +102,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="failed deploy" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="28" key="CommitChangelistDialog2" timestamp="1586219419672">
+    <state x="583" y="28" key="CommitChangelistDialog2" timestamp="1586219573088">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="28" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586219419672" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1586219507279">
+    <state x="583" y="28" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586219573088" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1586219587218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586219507279" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586219587218" />
   </component>
 </project>

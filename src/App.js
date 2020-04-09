@@ -8,6 +8,7 @@ import Checkboxed from "./components/Checkboxed";
 import Snackbars from "./components/Snackbars";
 import Steppers from "./components/Steppers";
 import Text from "./components/Text";
+import Dialog from "./components/Dialog";
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
 
         <Checkboxed/>
         <Snackbars/>
+      <Dialog/>
         <Steppers/>
         <Text/>
 
